@@ -1,0 +1,64 @@
+# .gitignore for ManualPELoader
+# Purpose: ignore build artifacts, large generated files, IDE settings and temporary files
+
+## Visual Studio / .NET
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+## Dotnet publish / runtime files
+**/publish/
+**/win-*/
+*.deps.json
+*.runtimeconfig.json
+
+## NuGet
+.nuget/
+packages/
+*.nupkg
+
+## C/C++ build artifacts (native Loader project)
+*.iobj
+*.ipdb
+*.exe.recipe
+*.ilk
+*.pdb
+*.obj
+*.lib
+*.exp
+*.idb
+*.pch
+
+## Temporary files, logs, OS files
+*.log
+*.tmp
+*.temp
+*.bak
+Thumbs.db
+desktop.ini
+
+## JetBrains / Rider
+.idea/
+
+## Test results
+TestResults/
+*.trx
+*.testresults
+
+## Generated project files (keep sources, ignore generated)
+**/*.generated.cs
+
+## Editor/IDE swap or backup files
+*~
+*.swp
+
+# End of .gitignore

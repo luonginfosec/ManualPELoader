@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ManualPELoader": {
+      "commandName": "Project",
+      "commandLineArgs": "SimpleEXE.exe Notepad.exe"
+    }
+  }
+}
