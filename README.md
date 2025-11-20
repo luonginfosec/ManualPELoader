@@ -125,7 +125,7 @@ dotnet build --configuration Release
 ### Shellcode Generation
 - Custom bootloader cho x86 và x64
 - Position-independent code
-- PE reflection loading
+- PE manual loading
 
 ## 👨‍💻 Tác giả
 
