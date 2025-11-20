@@ -127,22 +127,7 @@ dotnet build --configuration Release
 - Position-independent code
 - PE reflection loading
 
-## 🤝 Đóng góp
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-Dự án này được phát hành dưới giấy phép MIT. Xem file LICENSE để biết thêm chi tiết.
-
 ## 👨‍💻 Tác giả
 
 - **luonginfosec** - [GitHub Profile](https://github.com/luonginfosec)
 
-## 📞 Liên hệ
-
-Nếu bạn có câu hỏi hoặc gặp vấn đề, vui lòng tạo issue trên GitHub repository.
-
----
-
-**Disclaimer**: Công cụ này chỉ dành cho mục đích giáo dục và nghiên cứu bảo mật. Tác giả không chịu trách nhiệm về việc sử dụng sai mục đích.
